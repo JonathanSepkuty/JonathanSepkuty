@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Jonathan Sepkuty
 
-<!--
-**JonathanSepkuty/JonathanSepkuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Aerospace Engineering student with a deep interest in computer science, AI, and autonomous systems.
+Before starting my degree, I’m following a structured self-study plan to master programming, machine learning, and software development fundamentals.
 
-Here are some ideas to get you started:
+This profile documents my learning journey — including the courses, projects, and experiments I complete along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Study plan
+1. cs50p
+2. cs50x
+3. Andrew Ng ML
+4. Andrew Ng DL
+5. cs50ai
+
+🚀 End Goals
+
+Combine AI and aerospace engineering to work on UAVs and intelligent flight systems
+
+Build a portfolio of real-world projects that bridge software and hardware innovation
